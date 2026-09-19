@@ -1,6 +1,7 @@
 # 3-finger-bionic-arm
 
 A 3-finger bionic/prosthetic arm designed as an affordable and modular assistive device, combining mechanical design, 3D-printed components, servo-based actuation, and embedded control.
+
 **Team Size:** 5 Members  
 **My Role:** Mechanical Design
 
